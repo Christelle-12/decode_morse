@@ -23,7 +23,7 @@
 # 📖 [MORSE CODE] <a name="is decoding given Morse Codes to Strings"></a>
 
 
-**[Morse Code]** is based on Ruby Language code to encode the morse code and convert it into string alphabets.
+**[Morse Code]** is based on Ruby Language code to decode the morse code and convert it into string alphabets.
 
 ## 🛠 Built With <a name="built-with"></a>
 
