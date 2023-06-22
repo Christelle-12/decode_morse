@@ -22,7 +22,7 @@ def decode_message(message)
 
   message.split('   ').each do |word|
     new_message += if word == last_word
-                     decode_word(word).to_s
+                     decode_word(word)
                    else
                      "#{decode_word(word)} "
                    end
